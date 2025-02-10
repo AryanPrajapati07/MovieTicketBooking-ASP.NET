@@ -60,15 +60,6 @@
 - Payment encryption for secure transactions.
 - Access control for different user roles.
 
-## 📅 Development Timeline
-| Task | Duration | Status |
-|------|---------|--------|
-| UI Design | 2 weeks | ✅ Completed |
-| Backend Development | 4 weeks | ✅ Completed |
-| Database Setup | 2 weeks | ✅ Completed |
-| Testing & Bug Fixes | 2 weeks | 🔄 In Progress |
-| Deployment | 1 week | ⏳ Pending |
-
 ## 📌 Future Enhancements
 - 🎞️ **AI-based Movie Recommendations**
 - 🌍 **Multi-language Support**
